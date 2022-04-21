@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My public repositories are located at [https://gitea.jeremyrader.com/](https://gitea.jeremyrader.com/)
+
 <!--
 **jeremyrader/jeremyrader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
