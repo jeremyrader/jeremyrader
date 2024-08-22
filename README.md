@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-My public repositories are located at [https://gitea.jeremyrader.com/](https://gitea.jeremyrader.com/) (Usually. My private server is currently down)
+I am currently available for hire. You can message me on [LinkedIn](https://www.linkedin.com/in/jeremy-rader-boise/).
+
+Projects that I'm currently working on:
+
+- [Spacetraders Web Client](https://github.com/jeremyrader/spacetraders-web-client)
 
 <!--
 **jeremyrader/jeremyrader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
